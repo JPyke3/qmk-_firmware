@@ -27,6 +27,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MASTER_LEFT
 // #define MASTER_RIGHT
 // #define EE_HANDS
+#define BOOTMAGIC_KEY_SWAP_LALT_LGUI KC_A
+#define BOOTMAGIC_KEY_SWAP_RALT_RGUI KC_A
+#define SPLIT_LAYER_STATE_ENABLE
+#define SPLIT_WPM_ENABLE
+#define SPLIT_OLED_ENABLE
 
 //#define QUICK_TAP_TERM 0
 //#define TAPPING_TERM 100
